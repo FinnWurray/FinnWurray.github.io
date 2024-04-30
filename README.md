@@ -3,9 +3,11 @@
 
 <H2> Checklist </H2>
 
-- [] Git hub log in
-- 
-
+- [x] Git hub log in
+- [x] Image
+- [x] Repository * 2 un.github.io // Hello World
+- [x] Link to hello world website
+- [x] Add to index html of hello world 
 
 
 
