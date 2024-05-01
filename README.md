@@ -7,7 +7,10 @@
 - [x] Image
 - [x] Repository * 2 un.github.io // Hello World
 - [x] Link to hello world website
-- [x] Add to index html of hello world 
+- [x] Add to index html of hello world
+- [x] Add colour to hello world page
+- [x] Add font to hello world page
+- [] Change font size on hello world page
 
 
 
