@@ -12,10 +12,5 @@
 - [x] Add font to hello world page
 - [] Change font size on hello world page
 
-
-
-
-I am a *sailor*, I have been sailing since I was 7. I am a qulified *sailing coach*, [Click Here](https://www.yachtingnz.org.nz/public-profile/finn-murray). I coach **Open Skiffs** ![Skiff](https://i.ytimg.com/vi/rJVlyt38GbM/maxresdefault.jpg)
-
-
-[Hello World](https://finnwurray.github.io/Hello-world/)
+<h2>My other pages</h2>
+[NACRA 17](https://finnwurray.github.io/Hello-world/)
