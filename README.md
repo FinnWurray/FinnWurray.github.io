@@ -13,5 +13,4 @@
 - [] Change font size on hello world page
 
 <h2>My other pages</h2>
- <H3> <a href="https://finnwurray.github.io/"> HOME PAGE </a> </H3>
 [NACRA 17]("https://finnwurray.github.io/Hello-world/")
