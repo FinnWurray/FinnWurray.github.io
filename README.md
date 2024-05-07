@@ -10,7 +10,7 @@
 - [x] Add to index html of hello world
 - [x] Add colour to hello world page
 - [x] Add font to hello world page
-- [] Change font size on hello world page
+- [x] Change font size on hello world page
 
 <h2>My other pages</h2>
 [NACRA 17]("https://finnwurray.github.io/Hello-world/")
