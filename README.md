@@ -13,8 +13,6 @@
 - [x] Change font size on hello world page
 
 <h2>My other pages</h2>
-[NACRA 17](https://finnwurray.github.io/Hello-world/)
-<br>
-[Optimist](https://finnwurray.github.io/Optimist/)
+[Home Page](https://finnwurray.github.io/Home/)
 <br>
 [Rubric](https://finnwurray.github.io/Rubric/)
