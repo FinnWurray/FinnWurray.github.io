@@ -1,24 +1,28 @@
 h1 {
-  font-size: 72px;
+  font-size: 30px;
+  text-align: center;
+  font-family:"Garamond"; 
+  background: -webkit-linear-gradient(#333, #eee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+} 
+
+h2{
+    font-size: 30px;
+  text-align: center;
+  font-family:"Garamond"; 
   background: -webkit-linear-gradient(#333, #eee);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-
- h1 {
-          text-align: center;
-          font-family:"Garamond";
-} 
 
 h3{
   font-size: 30px;
+  text-align: center;
+  font-family:"Garamond"; 
   background: -webkit-linear-gradient(#333, #eee);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
-
-h3 {
-          text-align: center;
 }
 
 body{
